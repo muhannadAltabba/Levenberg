@@ -1,2 +1,2 @@
 # Levenberg
-implementation for levenberg algorithm for cat and non cat dataset
+implementation for levenberg algorithm using cat and non cat dataset
